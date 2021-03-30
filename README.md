@@ -13,4 +13,6 @@ USE THESE MODELS AT YOUR OWN RISK. (Please also note that I do <ins>**NOT**</ins
 ![idiots.exe preview](https://robot.wavetro.net/assets/images/image128.png)
 
 *(back to [robot.wavetro.net/#idiotsexe](https://robot.wavetro.net/#idiotsexe))* <br>
+*(back to [coolernow123.wordpress.com](https://coolernow123.wordpress.com))*<br>
+*(back to [c123.wavetro.net](https://c123.wavetro.net))*
 *(back to [wavetro.net](https://wavetro.net))*
