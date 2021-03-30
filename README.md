@@ -1,10 +1,12 @@
 # Angiru, Fist, and Codi - Blender 3D Models
 
+*To celebrate over a decade since the release of the first coolernow123 video, the 3D models of Angiru, Fist, and Codi are now available to download for free, forever!*
+
 <ins>**To download a single model</ins>,** click on the .blend in the file list and hit the "Download" button at the top.
 
 <ins>**To download all the models</ins>**, click the big green button at the top and hit the "Download .ZIP" option.
 
-You can use these models (yes, the same ones from idiots.exe) however you want! They are licensed to the public domain (CC0) and can be used for whatever you want without having to credit me, BUT PLEASE NOTE THAT I DO NOT OWN THESE CHARACTER DESIGNS. The rights to Angiru, Fist, Codi, and all the other Gogo's Crazy Bones characters belong to [Magic Box International](https://www.magicboxint.com/). 
+You can use these models however you want! They are licensed to the public domain (CC0) and can be used for whatever you want without having to credit me, BUT PLEASE NOTE THAT I DO NOT OWN THESE CHARACTER DESIGNS. The rights to Angiru, Fist, Codi, and all the other Gogo's Crazy Bones characters belong to [Magic Box International](https://www.magicboxint.com/). 
 
 USE THESE MODELS AT YOUR OWN RISK. (Please also note that I do <ins>**NOT**</ins> endorse whatever you or anyone else uses these models for.)
 
