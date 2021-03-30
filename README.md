@@ -1,6 +1,6 @@
 # Angiru, Fist, and Codi - Blender 3D Models
 
-*To celebrate over a decade since the release of the first coolernow123 video, the 3D models of Angiru, Fist, and Codi are now available to download for free forever here on GitHub or on [Blendswap]()!*
+*To celebrate the 11-year anniversary of the release of [the first coolernow123 video](https://www.youtube.com/watch?v=xYhdlJPdXkE), the 3D models of Angiru, Fist, and Codi are now available to download for free forever here on GitHub or on [Blendswap]()!*
 
 <ins>**To download a single model</ins>,** click on the .blend in the file list and hit the "Download" button at the top.
 
