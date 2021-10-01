@@ -4,7 +4,7 @@
 
 <ins>**To download</ins>,** click the big green button at the top and hit the "Download .ZIP" option.
 
-These models are licensed to the public domain (CC0) so you can use them however you want without crediting me, BUT PLEASE NOTE THAT I AM NOT THE OWNER OF THESE CHARACTER DESIGNS! The rights to Angiru, Fist, Codi, and all the other Gogo's Crazy Bones characters still belong to [Magic Box International](https://www.magicboxint.com/). USE THESE MODELS AT YOUR OWN RISK. (Please also note that I do <ins>**NOT**</ins> endorse whatever you or anyone else uses these models for.)
+These models are licensed to the public domain ([CC-0 license](https://creativecommons.org/share-your-work/public-domain/cc0)) so you can use them however you want without crediting me, BUT PLEASE NOTE THAT I AM NOT THE OWNER OF THESE CHARACTER DESIGNS! The rights to Angiru, Fist, Codi, and all the other Gogo's Crazy Bones characters still belong to [Magic Box International](https://www.magicboxint.com/). USE THESE MODELS AT YOUR OWN RISK. (Please also note that I do <ins>**NOT**</ins> endorse whatever you or anyone else uses these models for.)
 
 Works with Blender version 2.83.13+.
 
