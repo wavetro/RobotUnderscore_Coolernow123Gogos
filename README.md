@@ -15,4 +15,4 @@ Works with Blender version 2.83.13+.
 *(back to [robot.wavetro.net/#idiotsexe](https://robot.wavetro.net/#idiotsexe))* <br>
 *(back to [coolernow123.wordpress.com](https://coolernow123.wordpress.com))*<br>
 *(back to [c123.wavetro.net](https://c123.wavetro.net))*<br>
-*(back to [wavetro.net](https://wavetro.net))*
+*(back to [wavetro shop downloads](https://shop.wavetro.net/pages/downloads))*
